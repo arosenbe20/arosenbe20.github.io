@@ -1,0 +1,75 @@
+a:hover{
+  transform:rotate(90deg);
+  color:black;
+  font-size:100%;
+  cursor:move;
+}
+
+h1{
+  color:blue; 
+  font-family: georgia;
+  
+}
+
+li{
+  color:red;
+    font-family:verdana; 
+  
+}
+
+
+body{
+  
+cursor:url("http://cur.cursors-4u.net/cursors/images1/cur1.gif"), auto;
+ 
+  background-color:grey;
+  background-img: url("http://m.mlb.com/assets/images/8/2/6/157185826/cuts/1280x720_SilverSlugger_MLB_nologo_9hxv928z_mvvwjea8.jpg");
+}
+
+
+
+header {
+ text-align: center;
+
+ }
+
+ul{
+ padding: 10px;
+}
+
+header {
+text-align: center; background: url("http://mediadownloads.mlb.com/mlbam/2016/04/05/images/mlbf_573737883_th_45.jpg"); background-size: cover;
+}
+ul{
+padding: 10px;
+  margin:1%;
+}
+li {
+display: inline;
+padding: 0px 10px 0px 10px;
+}
+
+li {
+ display: inline;
+ padding: 0px 10px 0px 10px;
+ }
+
+img{
+  
+ width: 300px;
+  border:10px ridge grey;
+  
+}
+
+
+article{
+  display:inline-block;
+  
+  width:60%;
+    margin:10%;
+  
+  
+}
+
+
+
